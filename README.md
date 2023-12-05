@@ -10,7 +10,7 @@ Este repositório contém exemplos em C++ que ilustram diferentes tipos de estru
 
 ## Como Executar
 
-Certifique-se de ter um compilador C++ instalado no seu sistema. Compile e execute os exemplos individualmente.
+Certifique-se de ter um compilador C++ instalado no seu sistema. Compile e execute o exemplo da seguinte maneira:
 
 ```bash
 g++ script.cpp -o script
